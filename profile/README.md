@@ -1,7 +1,7 @@
 # 🎯 ArchTrace
 > Understand a codebase in minutes, not days.
 
-ArchTrace is an architecture visualization tool that transforms complex codebases into clear, interactive graphs. Using static analysis, we map control flow, execution paths, and dependencies—making even the most tangled legacy code navigable.
+ArchTrace is an architecture visualization tool that transforms complex codebases into clear, interactive graphs. Using static analysis, we map control flow, execution paths, and dependencies, making even the most tangled legacy code navigable.
 
 ## Why ArchTrace?
 - **Onboard faster:** New team members understand the architecture in hours, not weeks
@@ -16,7 +16,7 @@ ArchTrace is an architecture visualization tool that transforms complex codebase
 - 🔍 Code reviews and architectural decisions
 
 ## Get Started
-📖 [Tutorials](https://archtrace.dev/tutorials) | 🌐 [Website](https://archtrace.dev)
+🌐 [Website](https://archtrace.dev)
 
 ---
 
